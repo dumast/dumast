@@ -16,7 +16,7 @@ I am Terence Dumas, a 15 years old developper currently on a programming journey
 * Git
 
 ## Contact me
-* Email: dumast@awty.org
+* Email: dumast.dev@gmail.com
 * Discord: Terence#9783
 
 ## Donate
