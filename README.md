@@ -20,4 +20,4 @@ I am Terence Dumas, a 15 years old developper currently on a programming journey
 * Discord: Terence#9783
 
 ## Donate
-[Paypal][https://www.paypal.com/paypalme/terdumas]
+[Paypal](https://www.paypal.com/paypalme/terdumas)
