@@ -1,16 +1,23 @@
-### Hi there 👋
+### Greetings, welcome to my profile
 
-<!--
-**dumast/dumast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I am Terence Dumas, a 15 years old developper currently on a programming journey. I was born in France but moved to the US back when I was about 7 years old. Indeed, I can speak multiple languages such as English, French, Spanish (which I studied in class) and I am currently learning Japanese through self-taught methods. I started programming with Python when I was in 6th grade and then recently slipped onto different languages such as C and JavaScript, which I am the most confortable with.
 
-Here are some ideas to get you started:
+## Skills
+* Python
+* C
+* Html / Css / Javascript
+* React js
+* Next js
+* Svelte
+* Express js
+* MongoDB
+* Microsoft Azure
+* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+* Email: dumast@awty.org
+* Discord: Terence#9783
+
+## Donate
+[Paypal][https://www.paypal.com/paypalme/terdumas]
