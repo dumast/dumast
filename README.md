@@ -14,6 +14,7 @@ I am Terence Dumas, a young developer currently on a programming journey. I was 
 * MongoDB
 * Microsoft Azure
 * Git
+* Shell
 
 ## Contact me
 * Email: dumast.dev@gmail.com
