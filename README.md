@@ -19,7 +19,6 @@ I am Terence Dumas, a young developer currently on a programming journey. I was 
 
 ## Contact me
 * Email: dumast.dev@gmail.com
-* Discord: Terence#9783
 
 ## Donate
 [Paypal](https://www.paypal.com/paypalme/terdumas)
