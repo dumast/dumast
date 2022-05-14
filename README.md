@@ -5,14 +5,17 @@ I am Terence Dumas, a young developer currently on a programming journey. I was 
 
 ## Skills
 * Python
-* Swift
-* C
+* Flutter
+* Node.js
+* Firebase
 * Html / Css / Javascript
 * React js
 * Next js
 * Svelte
 * Express js
 * MongoDB
+* Swift
+* C
 * Microsoft Azure
 * Git
 * Shell
