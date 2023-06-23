@@ -1,20 +1,21 @@
 ### Greetings, welcome to my profile
 
 ## About
-I am Terence Dumas, a young developer currently on a programming journey. I was born in France but moved to the US back when I was about 7 years old. Indeed, I can speak multiple languages such as English, French, and Spanish. I started programming with Python a few years ago and then recently slipped onto different languages such as C and JavaScript, which I am the most confortable with.
+Incoming CS freshman at UT Austin.
+I have been programming since 2020, being a key member of various teams such as the Awty Programming Club and the FRC Team Awtybots 5829.
+My most recent project is a system that regularly measures water quality values from an aquaponics fish tank, utilizing Python on a Raspberry Pi, Firebase, and Flutter.
+My specialties include frontend, backend, and app development, but I am open to any programming technology.
 
 ## Skills
 * Python
-* Flutter
-* Node.js
-* Firebase
+* Flutter, Swift
 * Html / Css / Javascript
-* React js
-* Next js
-* Svelte
+* Typescript
+* Node
+* React, Next, Svelte
+* Firebase
 * Express js
 * MongoDB
-* Swift
 * C
 * Microsoft Azure
 * Git
