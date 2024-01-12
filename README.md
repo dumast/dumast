@@ -3,7 +3,7 @@
 ## About
 CS freshman at UT Austin.
 I have been programming since 2020, being a key member of various teams such as the Awty Programming Club and the FRC Team Awtybots 5829.
-I am currently working on a tech startup that aims to reduce food waste in high schools.
+I am currently working on RyteStart, a tech startup that aims to reduce food waste in high schools.
 My specialties include frontend, backend, and app development, but I am open to any programming technology.
 
 ## Skills
