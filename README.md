@@ -22,6 +22,3 @@ My programming strengths and experience include Web, App, Backend Development, a
 
 ## Contact me
 * Email: dumast.dev@gmail.com
-
-## Donate
-[Paypal](https://www.paypal.com/paypalme/terdumas)
